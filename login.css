@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100vh;
+  width: 100%;
+}
+
+.main{
+  height: 100vh;
+  width: 100%;
+}
+.back{
+  height: 100vh;
+  width: 100%;
+ 
+}
+
+.back img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.top{
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  height: 60%;
+  width: 26%;
+}
+
+.mo{
+  height: 60px;
+  width: 100%;
+  display: flex;
+}
+
+.mmo{
+  margin-top: 10px;
+  height: 60px;
+  width: 100%;
+  display: flex;
+}
+
+.le{
+  height: 100%;
+  width: 45%;
+}
+.le{
+  height: 100%;
+  width: 45%;
+  display: flex;
+}
+
+.le h3{
+  position: relative;
+  position: relative;
+  top: 20px;
+}
+
+.ri button{
+  margin-left: 90px;
+  margin-top: 10px;
+  height: 60%;
+  width: 60%;
+  background-color: blue;
+  color: white;
+}
+
+.le input{
+  font-size: 60px;
+  margin-top: 10px;
+}
+
+.ri{
+  height: 100%;
+  width: 55%;
+}
+
+.l{
+  height: 100%;
+  width: 20%;
+}
+.r{
+  height: 100%;
+  width: 80%;
+}
+
+.l i{
+  height: 100%;
+  width: 100%;
+  font-size: 40px;
+  color: white;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.r input{
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+}
+
+.ko{
+  height: 60px;
+  
+}
